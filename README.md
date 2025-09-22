@@ -17,8 +17,9 @@ This repository contains the Star Rail Games. The game files are split into mult
    https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.006
    https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.007
    https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.008
+   https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.009
    
-2. hdiff StarRail_3.5.0_3.6.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.5.0_3.6.0_hdiff_XMmBzxlycWbxumyx.7z
+3. hdiff StarRail_3.5.0_3.6.0: https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.5.0_3.6.0_hdiff_XMmBzxlycWbxumyx.7z
 
 ## HoYoPlay Download
 
